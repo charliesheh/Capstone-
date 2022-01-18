@@ -1,0 +1,35 @@
+body {
+    background-color: turquoise;
+    color: black;
+}
+
+p {
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+}
+
+h1 {
+    font-size: xx-large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
+
+h2 {
+    font-size: x-large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bold;
+    color: lavenderblush;
+}
+
+h3 {
+    font-size: x-large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bold;
+    color: gray;
+}

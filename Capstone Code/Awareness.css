@@ -1,0 +1,53 @@
+body {
+    background-color: olive;
+    color: black;
+}
+
+p {
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+}
+
+h1 {
+    font-size: xx-large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
+
+h2 {
+    font-size: xx-large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+}
+
+dl {
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+}
+
+dt {
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+}
+
+dd {
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+}
+
+mark {
+    background-color: brown;
+    color: black;
+  }

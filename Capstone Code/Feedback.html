@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <link rel="stylesheet" href="Feedback.css">
+    <h1>We hope you find our website useful! Please provide any feedback you have:</h1>
+</head>
+
+<body>
+   <form action="Thanks.html" method="POST">
+        <input type="email" name="email" class="form-control" placeholder="Email Address" required>
+        <input type="textboxid" placeholder="Give us your thoughts!" size="60" id="textboxid">
+        <button type="submit" formaction="Thanks.html" class = "mybutton" onclick="getInputValue();">Submit</button>
+   </form>
+    
+    
+    <script>
+        function getInputValue(){
+            // Selecting the input element and get its value 
+            var inputVal = document.getElementById("myInput").value;
+            
+            // Displaying the value
+            alert(inputVal);
+        }
+    </script>
+</body>
+
+</html>

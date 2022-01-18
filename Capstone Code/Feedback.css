@@ -1,0 +1,46 @@
+p {
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+}
+body {
+    background-color: tan;
+}
+
+h1 {
+    font-size: xx-large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#textboxid
+{
+    top:20%;
+    right:64%;
+    width:500px;
+    height:100px;
+    position: absolute;
+    z-index: 2;
+    font-size:14pt;
+}
+
+.mybutton {
+    bottom:55%;
+    right:63%;
+    width:100px;
+    height:40px;
+    position: absolute;
+    z-index: 2;
+}
+
+.form-control {
+    top:10%;
+    left:0.5%;
+    width:250px;
+    height:50px;
+    position: absolute;
+    z-index: 2;
+    font-size:14pt;
+}

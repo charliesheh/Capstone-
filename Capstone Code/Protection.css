@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+    color: black;
+}
+
+p {
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+}
+
+h1 {
+    font-size: xx-large;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
